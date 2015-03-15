@@ -1,0 +1,1 @@
+This is a customized version of Putty SSH tool which has been customized for www.compsoc.ie NUIG Comupter Society
